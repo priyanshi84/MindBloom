@@ -1,0 +1,8 @@
+{
+  "name": "MindBloom ",
+  "description": "A mental wellness webapp for Indian youth, providing a private and culturally-sensitive space to manage stress, practice difficult conversations, and grow a virtual mood garden. Features include AI-powered gentle guidance, exam stress micro-interventions, and a family bridge tool.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
